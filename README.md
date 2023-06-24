@@ -8,7 +8,7 @@ To facilitate a better understanding, managers have provided ratings for each em
 
 Dataset description:
 
-emp_record_table: It contains the information of all the employees.
+1. emp_record_table: It contains the information of all the employees.
 
 EMP_ID – ID of the employee
 
@@ -37,7 +37,7 @@ MANAGER_ID – The manager under which the employee is assigned
 PROJ_ID – The project on which the employee is working or has worked on
 
 
-Proj_table: It contains information about the projects.
+2. Proj_table: It contains information about the projects.
 
 PROJECT_ID – ID for the project
 
@@ -54,7 +54,7 @@ DEV_QTR – Quarter in which the project was scheduled
 STATUS – Status of the project currently
 
 
-Data_science_team: It contains information about all the employees in the Data Science team.
+3. Data_science_team: It contains information about all the employees in the Data Science team.
 
 EMP_ID – ID of the employee
 
